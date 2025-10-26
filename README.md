@@ -31,4 +31,4 @@ The goal of this project is to strengthen SQL proficiency and apply it to solve 
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/SQL-Project-3.git
+   https://github.com/islam2000-rabi/book_store_sql.git
